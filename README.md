@@ -3,10 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## NPM packages:
-Run npm install
-if bootstrap fails, run npm install boostrap@5.2.3
-if chart.js fails, run npm install chart.js@2.9.4
-if mdbootstrap fails, run npm install mdbootstrap@4.20.0
+Run npm install to install all the necessary directories and node packages. 
+ # if bootstrap fails, run npm install boostrap@5.2.3
+ # if chart.js fails, run npm install chart.js@2.9.4
+ # if mdbootstrap fails, run npm install mdbootstrap@4.20.0
 
 ## Development server
 
